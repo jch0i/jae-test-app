@@ -1,3 +1,3 @@
 # jae-test-app
 
-This is an test app for CICD
+This is a test app for CICD
